@@ -1,0 +1,18 @@
+# Ignore l'environnement virtuel
+venv/
+
+# Ignore les fichiers générés par Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Ignore les fichiers de log
+*.log
+
+# Ignore les fichiers temporaires
+*.tmp
+.DS_Store
+
+# Ignore les fichiers système
+.idea/
+.vscode/
